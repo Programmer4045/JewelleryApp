@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192212648866",
+    "project_id": "projectmad-58ca9",
+    "storage_bucket": "projectmad-58ca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192212648866:android:29adc3c09f46812f2d28fb",
+        "android_client_info": {
+          "package_name": "com.jewellryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192212648866-omjcjif7uv2c6ptphl029chd8lk6ocur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjuJ_Fp5iexBBFcXAx1Qz3Sex3idn1IaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192212648866-omjcjif7uv2c6ptphl029chd8lk6ocur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

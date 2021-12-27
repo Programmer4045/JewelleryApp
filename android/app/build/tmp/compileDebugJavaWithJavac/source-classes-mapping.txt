@@ -1,0 +1,14 @@
+com/jewellryapp/MainApplication.java
+ com.jewellryapp.MainApplication
+ com.jewellryapp.MainApplication$1
+com/jewellryapp/MainActivity.java
+ com.jewellryapp.MainActivity
+com/jewellryapp/BuildConfig.java
+ com.jewellryapp.BuildConfig
+com/jewellryapp/ReactNativeFlipper.java
+ com.jewellryapp.ReactNativeFlipper
+ com.jewellryapp.ReactNativeFlipper$1
+ com.jewellryapp.ReactNativeFlipper$2
+ com.jewellryapp.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
