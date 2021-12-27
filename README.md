@@ -1,6 +1,9 @@
 # JewelleryApp
-E-commerce App in React Native
-Login UI
+# E-Commerce App
+## _Made by Muhammad Fahad Rizwan_
+## _FA19-BCS-018_
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
 <img src="https://user-images.githubusercontent.com/59868973/147475042-d4871042-0bd9-458b-a002-d74d96dd2052.png" alt="drawing" width="400"/>
